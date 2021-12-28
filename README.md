@@ -1,5 +1,10 @@
 # Kaggle2
 
+Main Data: 
+kaggle_survey_2021_responses.csv: 42+ questions and 25,973 responses
+
+Responses to multiple choice questions (only a single choice can be selected) were recorded in individual columns. Responses to multiple selection questions (multiple choices can be selected) were split into multiple columns (with one column per answer choice).
+
 Here in this EDA 
 I tried to show the brief information of kaggle users. There many insights can be represented. 
 Here i used Plotly, matplotlib etc.
