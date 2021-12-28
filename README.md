@@ -1,4 +1,4 @@
-# Kaggle2
+# Kaggle Machine Learning & Data Science Survey
 
 Main Data: 
 kaggle_survey_2021_responses.csv: 42+ questions and 25,973 responses
